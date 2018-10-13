@@ -1,0 +1,3 @@
+[submodule "rpca_svs"]
+	path = rpca_svs
+	url = https://github.com/hiromu/rpca_svs.git
